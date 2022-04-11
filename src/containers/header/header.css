@@ -54,7 +54,7 @@
   min-height: 50px;
   font-family: var(--font-family);
   font-weight: bold;
-  font-size: 20px;
+  font-size: 18px;
   line-height: 27px;
   background: #ff4820;
   border-top-right-radius: 5px;
@@ -139,7 +139,7 @@
 
   .gpt3__header-content__input input,
   .gpt3__header-content__input button {
-    font-size: 12px;
+    font-size: 10px;
     line-height: 16px;
   }
 }
